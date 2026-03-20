@@ -102,7 +102,7 @@ Use at your own risk.
 
 ## 🔗 Repo
 
-https://github.com/your-repo/opencode-anthropic-oauth
+[https://github.com/your-repo/opencode-anthropic-oauth](https://github.com/rogoltmalki766/opencode-anthropic-oauth)
 
 ---
 
